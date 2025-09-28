@@ -8,8 +8,9 @@ clone dulu repo ini ke device kalian.
 5. Mending kirim akun github kalian biar aku bisa invite colaborator daripada ssh satu persatu.
 6. Bikin file .txt> isi yang disuruh.
 7. git init
-8. git commit -m "apa ajalah"
-9. git branch -M main
-10. git remote add origin https://github.com/ImamWahyudiz/Tugas-Github-PHP.git
-11. git push -u origin main
+8. git add .
+9. git commit -m "apa ajalah"
+10. git branch -M main
+11. git remote add origin https://github.com/ImamWahyudiz/Tugas-Github-PHP.git
+12. git push -u origin main
 
