@@ -49,7 +49,7 @@ Rangkuman Materi:
             - keunggulan: 
                     - populer
                     - semua kode aman di cloud
-                    - bisa kerja tim lintas daerah\
+                    - bisa kerja tim lintas daerah
                     
     
 
