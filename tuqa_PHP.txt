@@ -1,0 +1,60 @@
+Nama: Tuqa Zakiya Naz
+NIM: 25106050029
+
+Rangkuman Materi:
+    1. introduction to Figma: buikding connection, growing together
+        FIGMA
+            - Figma adalah aplikasi desain UI/Ux berbasis Vektor 
+            - Figma berbasis cloud, auto-save di server sehingga data tidak hilang
+            - berkolaborasi real-time, banyak orang bisa mengakses file yang sama dan perubahan langsung terlihat
+            - tools paling  populer di seluruh dunia
+
+        PRINSIP DASAR UI DESIGN:
+            - contrast
+            - alignment
+            - repetition
+            - proximity
+        
+        PRINSIP DASAR UX DESIGN:
+            - Hicks law = waktu yang diperlukan untuk memberi pilihan pada user
+            - Fitts's law = aturan peletakan tombol utama agar user tidak kesulitan
+            - Miller's law = kemudahan pengguna dalam mengingat
+            - Jacob's law = jangan membuat desain beda dari yang populer
+
+        PRINSIP DESIGN LAINNYA: 
+            - emphasis = penekanan
+            - color = pemilihan warna -> 60-30-10 (60% base, 30% sekunder, 10% elemen)
+            - typografi = font, teks
+            - white space = ruang kosong
+
+    2. Perkenalan Git, GitHub & VsCode
+        VsCode
+            - populer
+            - gratis & open source
+            - ringan
+            - cross platform
+            - ekstensi lengkap
+            - dukungan komunitas besar
+        
+        Git
+            - sistem kontrol versi distribusi untuk melacak perubahan proyek, berkolaborasi dalam tim, dan menyampaikan riwayat versi proyek.
+            - keunggulan:
+                    - populer
+                    - gratis
+                    - bisa kerja bareng
+                    - bisa mengatur dan melacak perubahan
+
+        GitHub
+            - Menyimpan, melacak, dan berkolaborasi dalam proyek kode secara online
+            - keunggulan: 
+                    - populer
+                    - semua kode aman di cloud
+                    - bisa kerja tim lintas daerah
+                    
+    
+
+
+
+    
+
+    
